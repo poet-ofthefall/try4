@@ -366,13 +366,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 0 -40px;
+  /* margin: 0 -40px; */
 }
 
-.focus__box-left,
+/* .focus__box-left,
 .focus__box-right {
   padding: 0 40px;
-}
+} */
 
 .focus__left-title {
   font-weight: 600;
